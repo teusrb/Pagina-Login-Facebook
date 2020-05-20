@@ -4,5 +4,7 @@ A página está com <strong>design responsivo</strong> aplicado.<br/>
 
 # Fotos do projeto
 ![facebook](https://user-images.githubusercontent.com/53863282/82502146-e2f60000-9acc-11ea-8a67-f0bc13db4213.PNG)
+<hr/>
 ![facebook2](https://user-images.githubusercontent.com/53863282/82502523-aecf0f00-9acd-11ea-87a9-d0fb86c0ee21.PNG)
+<hr/>
 ![facebook3](https://user-images.githubusercontent.com/53863282/82502390-5f88de80-9acd-11ea-8690-8aab9f76177d.PNG)
